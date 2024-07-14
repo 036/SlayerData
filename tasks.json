@@ -1,0 +1,718 @@
+[
+    {
+      "name": "Aberrant spectre",
+      "alternativeNames": ["Abhorrent spectre", "Deviant spectre"],
+      "superiorVariants": ["Abhorrent spectre", "Deviant spectre"],
+      "baseLocation": { "x": 3427, "y": 3549, "plane": 1 },
+      "locations": {
+        "Slayer Tower": { "x": 3427, "y": 3549, "plane": 1 },
+        "Stronghold Slayer Dungeon": { "x": 2458, "y": 9777, "plane": 0 },
+        "Catacombs of Kourend": { "x": 1609, "y": 10008, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "HELMET", "itemId": 4168 }]
+    },
+    {
+      "name": "Abyssal demon",
+      "alternativeNames": ["Greater abyssal demon"],
+      "superiorVariants": ["Greater abyssal demon"],
+      "baseLocation": { "x": 1673, "y": 10085, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1673, "y": 10085, "plane": 0 },
+        "Slayer Tower": { "x": 3434, "y": 9960, "plane": 3 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Adamant dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1760, "y": 5366, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Ankou",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Banshee",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3441, "y": 3545, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "HELMET", "itemId": 4166 }]
+    },
+    {
+      "name": "Bat",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3429, "y": 3522, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Bear",
+      "alternativeNames": [
+        "Bear Cub",
+        "Black bear",
+        "Grizzly bear",
+        "Grizzly bear cub",
+        "Polar bear",
+        "Spirit bear"
+      ],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2720, "y": 3637, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Bird",
+      "alternativeNames": ["Bird", "Birds", "Chicken"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3234, "y": 3295, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Black demon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1720, "y": 10084, "plane": 0 },
+      "locations": {
+        "Taverley Underground": { "x": 2875, "y": 9784, "plane": 0 },
+        "Catacombs of Kourend": { "x": 1720, "y": 10084, "plane": 0 },
+        "Brimhaven Dungeon": { "x": 2710, "y": 9466, "plane": 0 },
+        "Chasm of Fire": { "x": 1455, "y": 10089, "plane": 1 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Black dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1613, "y": 10077, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Mutated Bloodveld",
+      "alternativeNames": [
+        "Bloodveld",
+        "Insatiable Bloodveld",
+        "Insatiable mutated Bloodveld"
+      ],
+      "superiorVariants": [
+        "Insatiable mutated Bloodveld",
+        "Insatiable Bloodveld"
+      ],
+      "baseLocation": { "x": 1630, "y": 10025, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1630, "y": 10031, "plane": 0 },
+        "Slayer Tower": { "x": 3411, "y": 9934, "plane": 3 },
+        "Stronghold Slayer Cave": { "x": 2420, "y": 9450, "plane": 0 },
+        "Godwars Dungeon": { "x": 0, "y": 0, "plane": 0 },
+        "Stronghold Slayer Dungeon": { "x": 2438, "y": 9820, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [1265],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Baby blue dragon",
+      "alternativeNames": ["Blue dragon", "Baby blue dragon"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1897, "y": 9005, "plane": 0 },
+      "locations": {
+        "Taverley Underground": { "x": 2901, "y": 9796, "plane": 0 },
+        "Catacombs of Kourend": { "x": 1641, "y": 10074, "plane": 0 },
+        "Myth\u0027s Guild Basement": { "x": 1899, "y": 9003, "plane": 1 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Brine rat",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2707, "y": 10133, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Bronze dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1646, "y": 10091, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1646, "y": 10091, "plane": 0 },
+        "Brimhaven Dungeon": { "x": 2641, "y": 9453, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Cave Bug",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2715, "y": 5236, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Cave horror",
+      "alternativeNames": ["Cave abomination"],
+      "superiorVariants": ["Cave abomination"],
+      "baseLocation": { "x": 3748, "y": 9373, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Cave kraken",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Cave slime",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2724, "y": 5235, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Cow",
+      "alternativeNames": ["Giant rat"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Crawling Hand",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3412, "y": 3538, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Dagannoth",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2448, "y": 10140, "plane": 0 },
+      "locations": {
+        "Waterbirth Dungeon": { "x": 2448, "y": 10140, "plane": 0 },
+        "Lighthouse Dungeon": { "x": 2514, "y": 10016, "plane": 0 },
+        "Catacombs of Kourend": { "x": 1665, "y": 9998, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Dark beast",
+      "alternativeNames": ["Night beast"],
+      "superiorVariants": ["Night beast"],
+      "baseLocation": { "x": 2043, "y": 4655, "plane": 0 },
+      "locations": { "Mourner Tunnels": { "x": 2043, "y": 4655, "plane": 0 } },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Desert Lizard",
+      "alternativeNames": ["Sulphur Lizard", "Sulphur Lizards"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1331, "y": 10186, "plane": 1 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "BOOTS", "itemId": 23037 }]
+    },
+    {
+      "name": "Dog",
+      "alternativeNames": ["Dog", "Dogs", "Guard dog"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1765, "y": 3602, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Drake",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1312, "y": 10235, "plane": 1 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Dust devil",
+      "alternativeNames": ["Choke devil"],
+      "superiorVariants": ["Choke devil"],
+      "baseLocation": { "x": 3215, "y": 9374, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1715, "y": 10024, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "HELMET", "itemId": 4164 }]
+    },
+    {
+      "name": "Dwarf",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3046, "y": 9817, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Earth warrior",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3118, "y": 9991, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Fire giant",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1633, "y": 10061, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1633, "y": 10061, "plane": 0 },
+        "Brimhaven Dungeon": { "x": 2669, "y": 9481, "plane": 0 },
+        "Stronghold Slayer Dungeon": { "x": 2420, "y": 9450, "plane": 0 },
+        "Waterfall Dungeon": { "x": 2567, "y": 9885, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Gargoyle",
+      "alternativeNames": [],
+      "superiorVariants": ["Marble gargoyle"],
+      "baseLocation": { "x": 3438, "y": 9943, "plane": 3 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [4162],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Ghost",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1687, "y": 10060, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Goblin",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3258, "y": 3229, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Greater demon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1706, "y": 10099, "plane": 0 },
+      "locations": {
+        "Brimhaven Dungeon": { "x": 2635, "y": 9506, "plane": 2 },
+        "Catacombs of Kourend": { "x": 1706, "y": 10099, "plane": 0 },
+        "Karuulm Slayer Dungeon": { "x": 1291, "y": 10206, "plane": 0 },
+        "Chasm of Fire": { "x": 1435, "y": 10093, "plane": 2 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Hellhound",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2416, "y": 9798, "plane": 0 },
+      "locations": {
+        "Stronghold Slayer Dungeon": { "x": 2416, "y": 9798, "plane": 0 },
+        "Catacombs of Kourend": { "x": 1644, "y": 10064, "plane": 0 },
+        "Witchaven Dungeon": { "x": 2737, "y": 9687, "plane": 0 },
+        "Taverley Dungeon": { "x": 2861, "y": 9845, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Hill giant",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2907, "y": 9734, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Hobgoblin",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3022, "y": 9591, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Hydra",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1359, "y": 10250, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Icefiend",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3011, "y": 3484, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Iron dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1648, "y": 10098, "plane": 0 },
+      "locations": {
+        "Kourend Catacombs": { "x": 1648, "y": 10098, "plane": 0 },
+        "Brimhaven Dungeon": { "x": 2717, "y": 9445, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Jelly",
+      "alternativeNames": [
+        "Warped Jelly",
+        "Vitreous Jelly",
+        "Vitreous warped Jelly"
+      ],
+      "superiorVariants": ["Vitreous Jelly", "Vitreous warped Jelly"],
+      "baseLocation": { "x": 1688, "y": 9999, "plane": 0 },
+      "locations": {
+        "Catacombs of Kourend": { "x": 1688, "y": 9999, "plane": 0 },
+        "Fremennik Slayer Dungeon": { "x": 2702, "y": 10024, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Kurask",
+      "alternativeNames": ["King kurask"],
+      "superiorVariants": ["King kurask"],
+      "baseLocation": { "x": 2701, "y": 9999, "plane": 0 },
+      "locations": {
+        "Fremennik Slayer Dungeon": { "x": 2701, "y": 9999, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Mithril dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1775, "y": 5354, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Monkey",
+      "alternativeNames": ["Monkey Zombie"],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2780, "y": 9104, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Mutated zygomite",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": { "Fossil Island": { "x": 0, "y": 0, "plane": 0 } },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Nechryael",
+      "alternativeNames": ["Greater Nechryael", "Nechryarch"],
+      "superiorVariants": ["Greater Nechryael", "Nechryarch"],
+      "baseLocation": { "x": 3417, "y": 9961, "plane": 3 },
+      "locations": {
+        "Slayer Tower": { "x": 3417, "y": 9961, "plane": 3 },
+        "Catacombs of Kourend": { "x": 1706, "y": 10081, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Kalphite Worker",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3504, "y": 9520, "plane": 2 },
+      "locations": {
+        "Kalphite Lair": { "x": 3504, "y": 9520, "plane": 2 },
+        "Kalphite Hive": { "x": 3315, "y": 9503, "plane": 0 },
+        "Kalphite Cavern: Task only": { "x": 3320, "y": 9507, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Pyrefiend",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2758, "y": 10007, "plane": 0 },
+      "locations": {
+        "Fremennik Slayer Dungeon": { "x": 2758, "y": 10007, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Rat",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3166, "y": 3168, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Rockslug",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2800, "y": 10018, "plane": 0 },
+      "locations": {
+        "Fremennik Slayer Dungeon": { "x": 2800, "y": 10018, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Scorpion",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Skeletal Wyvern",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Skeleton",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3120, "y": 9890, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Smoke devil",
+      "alternativeNames": ["Nuclear smoke devil"],
+      "superiorVariants": ["Nuclear smoke devil"],
+      "baseLocation": { "x": 2405, "y": 9422, "plane": 0 },
+      "locations": {
+        "Smoke Devil Dungeon": { "x": 2405, "y": 9422, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MISSILES",
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "HELMET", "itemId": 4164 }]
+    },
+    {
+      "name": "Spider",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2764, "y": 9103, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Steel dragon",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 1760, "y": 5366, "plane": 0 },
+      "locations": {
+        "Catacoms of Kourend": { "x": 1608, "y": 10054, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [2452],
+      "equipmentRequirement": [{ "slot": "SHIELD", "itemId": 1540 }]
+    },
+    {
+      "name": "Suqah",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2111, "y": 3940, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Wall Beast",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3162, "y": 9555, "plane": 0 },
+      "locations": {
+        "Lumbridge Swamp Caves": { "x": 3162, "y": 9555, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Waterfiend",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2281, "y": 9990, "plane": 0 },
+      "locations": { "Kraken Cove": { "x": 2281, "y": 9990, "plane": 0 } },
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Warped creature",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Mountain troll",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2776, "y": 10141, "plane": 0 },
+      "locations": {
+        "Keldagrim": { "x": 2776, "y": 10141, "plane": 0 },
+        "Troll Stronghold": { "x": 2824, "y": 10079, "plane": 2 },
+        "Death Plateau": { "x": 2860, "y": 3591, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Turoth",
+      "alternativeNames": ["Turoth", "Turoths", "Spiked Turoth"],
+      "superiorVariants": ["Spiked Turoth"],
+      "baseLocation": { "x": 0, "y": 0, "plane": 0 },
+      "locations": {},
+      "protectionPrayer": "PROTECT_FROM_MELEE",
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Wolf",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 2630, "y": 3628, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    },
+    {
+      "name": "Wyrm",
+      "alternativeNames": ["Shadow Wyrm"],
+      "superiorVariants": ["Shadow Wyrm"],
+      "baseLocation": { "x": 1264, "y": 10197, "plane": 0 },
+      "locations": {
+        "Karuulm Slayer Dungeon": { "x": 1264, "y": 10197, "plane": 0 }
+      },
+      "protectionPrayer": "PROTECT_FROM_MAGIC",
+      "inventoryRequirement": [],
+      "equipmentRequirement": [{ "slot": "BOOTS", "itemId": 23037 }]
+    },
+    {
+      "name": "Zombie",
+      "alternativeNames": [],
+      "superiorVariants": [],
+      "baseLocation": { "x": 3146, "y": 9902, "plane": 0 },
+      "locations": {},
+      "inventoryRequirement": [],
+      "equipmentRequirement": []
+    }
+  ]
+  
